@@ -2,7 +2,7 @@
 IT00AK39-3001_Cybersecurity_2025
 
 
-| Date  | Used hours | Subject(s) |  output |
+| Date  | Used hours | Subject(s) |  outcome |
 | :---         |     :---:      |     :---:      |     :---:      |
 | 31.01.2025 | 8  | Crispo course     | passed                      |
 | 06.02.2025 | 6  | 1-3 lections      | All missed activites passed |
