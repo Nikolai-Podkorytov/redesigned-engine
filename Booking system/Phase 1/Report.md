@@ -1,12 +1,9 @@
 1. Introduction:
 
-· Purpose and scope of the report.
-
-· Testing schedule and environment.
-
-· Scope of testing.
-
-· Methods and tools used for testing.
+Kali Linux
+OWASP ZAP
+Burp Suite
+Manual SQL Injection Testing
 
 2. Summary:
 
