@@ -23,9 +23,7 @@ Grade 3 → At least 60 hours have been spent completing the course
 
 The Booking system project → Phase 3 accepted
 
-12 in total 
-
-PortSwigger →  15 in total
+PortSwigger →  12 in total
 
 Grade 4 → At least 70 hours have been spent completing the course
 
