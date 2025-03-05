@@ -15,9 +15,17 @@ IT00AK39-3001_Cybersecurity_2025
 
 Reminder. 
 
-Grade 1 → At least 40 hours have been spent completing the course
+Grade 1 → **At least 40 hours have been spent completing the course**
+
+The Booking system project → Phase 1 accepted
+
+PortSwigger →  6 in total
 
 Grade 2 → At least 50 hours have been spent completing the course
+
+The Booking system project → Phase 2 accepted
+
+**PortSwigger →  9 in total**
 
 Grade 3 → At least 60 hours have been spent completing the course
 
