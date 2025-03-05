@@ -7,7 +7,9 @@ Kali Linux: For general penetration testing and exploitation.
 OWASP ZAP: Automated security scanner to identify vulnerabilities.
 Burp Suite: For web application scanning and intercepting HTTP requests.
 Manual SQL Injection Testing: To test for potential SQL injection vulnerabilities.
-**Updated 05.3.2025 
+**Updated 05.3.2025**
+The latest ZAP scanning report findings, including the User Agent Fuzzer issue, have also been incorporated into this document.
+**Updated 05.3.2025 end**
 Summary:
 
 
@@ -35,9 +37,18 @@ Use Prepared Statements and Parameterized Queries: This prevents SQL injection b
 
 Validate and Sanitize Inputs: Inputs should be validated and sanitized to eliminate any malicious characters before processing them. This ensures that only expected and safe input is allowed in the system.
 
+**Updated 05.3.2025**
+Description: Variations in responses were observed when fuzzing the User-Agent header with different values (e.g., mobile devices, search engine crawlers). The discrepancies suggest differences in how the application processes requests based on User-Agent strings.
+
+Instances: 12
+**Updated 05.3.2025 end**
+Suggested Fix: Further investigate to confirm no sensitive data or security flaws are exposed due to these variations. Ensure consistent behavior across all valid User-Agent headers.
+
 Conclusion:
 The penetration testing revealed several significant vulnerabilities within the application, with both medium- and critical-level risks identified. The most concerning issue was the SQL injection vulnerability, which can lead to unauthorized data access and manipulation if exploited. Additionally, the application’s weak password policy and the absence of anti-clickjacking protections pose significant risks that could lead to account compromise or user interaction hijacking.
-
+**Updated 05.3.2025**
+The additional User Agent Fuzzer finding emphasizes the need for further investigation into response discrepancies.
+**Updated 05.3.2025 end**
 The recommended fixes include implementing a stronger password policy, enabling anti-clickjacking protections, and addressing SQL injection vulnerabilities with prepared statements and input sanitization. These improvements are essential to ensuring the security and integrity of the application.
 
 Addressing these vulnerabilities should be prioritized, especially the critical SQL injection issue, as it has the potential for severe exploitation. Once these fixes are applied, we recommend a re-scan to verify that the vulnerabilities have been resolved and the application is secure against potential attacks.
@@ -72,3 +83,10 @@ Open the registration page.
 Enter an SQL injection payload (e.g., ' OR 1=1 --).
 Observe that the application processes the input and allows bypassing authentication.
 Fix: Use prepared statements and parameterized queries. Sanitize and validate all user inputs before processing them.
+
+
+**Updated 05.3.2025**
+
+Additionally:
+The User Agent Fuzzer issue should be reviewed to ensure no unintended security or data exposure arises from varying User-Agent strings.
+**Updated 05.3.2025 end**
