@@ -14,8 +14,13 @@ IT00AK39-3001_Cybersecurity_2025
 | //.//.2025 | 39  | Total hours       | almost Grade 1(80 for grade 5) |
 
 Reminder. 
+
 Grade 1 → At least 40 hours have been spent completing the course
+
 Grade 2 → At least 50 hours have been spent completing the course
+
 Grade 3 → At least 60 hours have been spent completing the course
+
 Grade 4 → At least 70 hours have been spent completing the course
+
 Grade 5 → At least 80 hours have been spent completing the course
