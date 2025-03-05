@@ -1,4 +1,5 @@
-1. Introduction:
+
+Introduction:
 
 This report documents the penetration testing focusing on assessing vulnerabilities in user authentication, input validation, and session management. The goal of this testing was to identify critical security risks and provide actionable recommendations for remediation. The testing was conducted using the following tools and methodologies:
 
@@ -7,15 +8,19 @@ OWASP ZAP: Automated security scanner to identify vulnerabilities.
 Burp Suite: For web application scanning and intercepting HTTP requests.
 Manual SQL Injection Testing: To test for potential SQL injection vulnerabilities.
 
-2. Summary:
+Summary:
 
 
 🟡 Medium: Weak Password Policy
+
 Description: The application allows the creation of weak passwords, such as single-character passwords or usernames. It only checks for empty fields or if the username is already in use.
+
 Suggested Fix: Implement a password validation function to enforce strong password requirements, such as a minimum length, a mix of uppercase and lowercase letters, numbers, and special characters. This will prevent users from setting weak passwords and reduce the risk of brute-force or credential-stuffing attacks.
 
 🟡 Medium: Absence of Anti-Clickjacking Protections
+
 Description: The application lacks anti-clickjacking protections, meaning the webpage can be embedded in iframes by malicious sites.
+
 Suggested Fix: Implement the X-Frame-Options header or Content Security Policy (CSP) to prevent the page from being embedded in an iframe. This will mitigate the risk of clickjacking attacks and protect users from unintended interactions and potential data exposure.
 
 🔴 Critical: SQL Injection Vulnerability
