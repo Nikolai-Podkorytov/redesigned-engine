@@ -11,7 +11,8 @@ IT00AK39-3001_Cybersecurity_2025
 | 20.02.2025 | 8   | Docker            | The Booking system project 0   |
 | 01.03.2025 | 6   | Labs              | compliteted 3 labs(9  total)   |
 | 05.03.2025 | 5.5 | Docker-2 reports  | Phase 1 part 1 and 2 complite  |
-| //.//.2025 | 39  | Total hours       | almost Grade 1(80 for grade 5) |
+| 06.03.2025 | 2.5 | lections          | lisen lections                 |
+| //.//.2025 | 42  | Total hours       |  Grade 1                       |
 
 Reminder. 
 
