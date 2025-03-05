@@ -7,7 +7,7 @@ Kali Linux: For general penetration testing and exploitation.
 OWASP ZAP: Automated security scanner to identify vulnerabilities.
 Burp Suite: For web application scanning and intercepting HTTP requests.
 Manual SQL Injection Testing: To test for potential SQL injection vulnerabilities.
-
+**Updated 05.3.2025 
 Summary:
 
 
