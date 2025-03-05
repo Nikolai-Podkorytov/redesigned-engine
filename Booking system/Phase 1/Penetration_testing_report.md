@@ -9,7 +9,9 @@ Burp Suite: For web application scanning and intercepting HTTP requests.
 Manual SQL Injection Testing: To test for potential SQL injection vulnerabilities.
 
 **Updated 05.3.2025**
+
 The latest ZAP scanning report findings, including the User Agent Fuzzer issue, have also been incorporated into this document.
+
 **Updated 05.3.2025 end**
 
 Summary:
@@ -44,6 +46,7 @@ Validate and Sanitize Inputs: Inputs should be validated and sanitized to elimin
 Description: Variations in responses were observed when fuzzing the User-Agent header with different values (e.g., mobile devices, search engine crawlers). The discrepancies suggest differences in how the application processes requests based on User-Agent strings.
 
 Instances: 12
+
 **Updated 05.3.2025 end**
 
 Suggested Fix: Further investigate to confirm no sensitive data or security flaws are exposed due to these variations. Ensure consistent behavior across all valid User-Agent headers.
