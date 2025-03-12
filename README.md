@@ -12,13 +12,14 @@ IT00AK39-3001_Cybersecurity_2025
 | 01.03.2025 | 6   | Labs              | compliteted 3 labs(9  total)   |
 | 05.03.2025 | 5.5 | Docker-2 reports  | Phase 1 part 1 and 2 complite  |
 | 06.03.2025 | 2.5 | lections          | lisen lections                 |
-| //.//.2025 | 42  | Total hours       |  Grade 1                       |
+| 12.03.2025 | 6   | Phase 2           | Phase 2  Part 1                |
+| //.//.2025 | 47  | Total hours       |  Grade 1                       |
 
 Reminder. 
 
 Grade 1 → **At least 40 hours have been spent completing the course**
 
-The Booking system project → Phase 1 accepted
+**The Booking system project → Phase 1 accepted**
 
 PortSwigger →  6 in total
 
