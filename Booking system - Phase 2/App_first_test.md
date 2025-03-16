@@ -1,3 +1,27 @@
+# ZAP by Checkmarx Scanning Report
+
+ZAP by [Checkmarx](https://checkmarx.com/).
+
+
+## Summary of Alerts
+
+| Risk Level | Number of Alerts |
+| --- | --- |
+| High | 0 |
+| Medium | 0 |
+| Low | 0 |
+| Informational | 2 |
+
+
+
+
+## Alerts
+
+| Name | Risk Level | Number of Instances |
+| --- | --- | --- |
+| Authentication Request Identified | Informational | 2 |
+| User Agent Fuzzer | Informational | 24 |
+
 
 
 
@@ -218,3 +242,5 @@ Instances: 24
 
 
 #### Source ID: 1
+
+
