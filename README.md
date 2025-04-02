@@ -17,36 +17,47 @@ IT00AK39-3001_Cybersecurity_2025
 | 16.03.2025 | 2   | Phase 2           | Phase 2  Part 1                |
 | 23.03.2025 | 9   | Phase 2           | Phase 2  Part 2                |
 | 01.04.2025 | 5   | Phase 3           | Phase 3                        |
-| //.//.2025 | 68  | Total hours       |  Grade 3 2 2                   |
+| 02.04.2025 | 3   | Phase 3           | Phase 3                        |
+| //.//.2025 | 71  | Total hours       |  Grade 4 2 2                   |
 
 
 Reminder. 
 
-Grade 1 → At least 40 hours have been spent completing the course
+Grade 1 → 
+
+At least 40 hours have been spent completing the course
 
 The Booking system project → Phase 1 accepted
 
 PortSwigger →  6 in total
 
-Grade 2 → At least 50 hours have been spent completing the course
+Grade 2 → 
+
+At least 50 hours have been spent completing the course
 
 **The Booking system project → Phase 2 accepted**
 
 **PortSwigger →  9 in total**
 
-Grade 3 → **At least 60 hours have been spent completing the course**
+Grade 3 → 
+
+At least 60 hours have been spent completing the course
 
 The Booking system project → Phase 3 accepted
 
 PortSwigger →  12 in total
 
-Grade 4 → At least 70 hours have been spent completing the course
+Grade 4 → 
+
+**At least 70 hours have been spent completing the course**
 
 PortSwigger →  15 in total 
 
 The Booking system project → Phase 4 accepted
 
-Grade 5 → At least 80 hours have been spent completing the course
+Grade 5 → 
+
+At least 80 hours have been spent completing the course
 
 PortSwigger →  18 in total 
 
