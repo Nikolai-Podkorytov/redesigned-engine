@@ -16,7 +16,9 @@
 | &nbsp;✅&nbsp; | Is underage registration (under 15 years) and booking functionality restricted? |
 
 *User can only see
+
 **Not all administrators will be able to find the implemented feature
+
 ***The implemented confirmation is not enough.
 
 ---
@@ -35,6 +37,7 @@
 | &nbsp;⚠️**&nbsp; | Are administrator privileges limited to ensure GDPR compliance (e.g., administrators<br> cannot use data for unauthorized purposes)? |
 
 *There is no function to delete a reservation, and any user has this opportunity if he searches.
+
 **Possibility of changing registration or changing registration for your own purposes
 
 ---
