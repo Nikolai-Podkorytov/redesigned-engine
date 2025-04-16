@@ -19,7 +19,8 @@ IT00AK39-3001_Cybersecurity_2025
 | 01.04.2025 | 5   | Phase 3           | Phase 3                        |
 | 02.04.2025 | 3   | Phase 3           | Phase 3                        |
 | 10.04.2025 | 3   | lections          | Phase 4,0                      |
-| //.//.2025 | 74  | Total hours       |  Grade 4 3 2                   |
+| 17.04.2025 | 4   |  Phase 4,0        | Phase 4,0                      |
+| //.//.2025 | 78  | Total hours       |  Grade 4 3 2                   |
 
 
 Reminder. 
