@@ -22,7 +22,7 @@ IT00AK39-3001_Cybersecurity_2025
 | 17.04.2025 | 4   |  Phase 4          | Phase 4                        |
 | 18.04.2025 | 5   |  labs             | total labs 18                  |
 | 18.04.2025 | 2   |  Final assignment | Collecting and reflections     |
-| 20.04.2025 | 84  | Total hours       |  Grade 5 5 2                   |
+| 20.04.2025 | 84  | Total hours       |  Grade 5 5 3                   |
 
 
 Reminder. 
