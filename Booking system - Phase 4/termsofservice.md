@@ -1,28 +1,28 @@
-# Privacy Policy
+# Terms of Service
 
-At Booking System, we take your privacy seriously. This Privacy Policy outlines how we handle and protect your personal data in compliance with GDPR regulations.
+Welcome to Booking System! By using our platform, you agree to the following terms and conditions:
 
-## 1. Information We Collect
-- Personal details provided during registration (e.g., name, email address, age).
-- Booking details, such as selected resources and reservation times.
-- Technical data, including IP address and browser information, to improve service delivery.
+## 1. Access and Registration
+- The system is accessed via a web browser.
+- Users must register to access full functionality and log in to act as either reservers or administrators.
 
-## 2. How We Use Your Information
-- To enable registration and login functionality.
-- To manage resource bookings and reservations efficiently.
-- To ensure age requirements (15+ years) for resource reservers are met.
-- To communicate confirmations or updates related to bookings.
-- To comply with GDPR and Privacy by Design (PbD) principles.
+## 2. User Roles
+- **Reserver**: Can book resources on an hourly basis if they are 15+ years old.
+- **Administrator**: Can add, remove, or modify resources and reservations. Administrators can also delete reservers.
 
-## 3. Sharing of Information
-- Booked resources are displayed publicly without revealing reserver identities.
-- Data is shared only with authorized service providers for system functionality and improvements.
-- We do not sell or share your data with third parties for marketing purposes.
+## 3. Booking Policy
+- Resources are displayed publicly on the system without requiring login, but reserver identities remain hidden.
+- All bookings must comply with system rules, such as hourly reservations.
 
-## 4. Data Security
-- Personal data is secured with encryption and stored in compliance with GDPR.
-- Access to personal data is limited to authorized personnel only.
+## 4. Prohibited Activities
+- Fraudulent use of the platform, attempts to bypass security, or violation of age restrictions (15+ years) are not permitted.
+- Misuse of administrator rights may lead to account suspension.
 
-## 5. Your Rights
-- You can request to access, update, or delete your personal data via your account settings.
-- For data concerns or GDPR-related issues, contact us at privacy@bookingsystem.com.
+## 5. Limitation of Liability
+- Booking System is not responsible for errors in user-entered data or disputes between administrators and reservers.
+- Liability is limited to the proper functionality of the software.
+
+## 6. Changes to Terms
+- Terms may be updated as needed, with continued use of the platform signifying agreement to the updated terms.
+
+---
