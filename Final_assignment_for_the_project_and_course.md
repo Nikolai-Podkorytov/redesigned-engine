@@ -134,8 +134,20 @@ In completing these stages, I believe I have learned the key concepts and tools 
 ```
 https://github.com/Nikolai-Podkorytov/redesigned-engine/blob/main/Logbook.md
 ```
+| № | Used hours | Subject(s) |  Comments |
+| :---         |     :---:      |     :---:      |     :---:      |
+| 1 | 8   | Crispo course     |      I read this course quite diligently.                |
+| 2 | 16   | PortSwigger      |   *More time took first 5 labs   Last 3 was so fast   |
+| 3 | 46   | The Booking system project |        |
+| 4 | 12   | lections            | Not include time with BS |
+| 5 | 2   | Final assignment       |   In fact it took more than 2 hours - about 4 |
+| - | 84  | Total hours       |         After 18 labs I continued to do            |
 ## Reflection 
+
+I didn't expect such efficiency from logbook, I will definitely use it in my work, as it shows the work done quite well. It taught me to monitor the work, sometimes it seemed that I was often engaged in cybersecurity, but it turned out that the number of days is not so big, mostly weekly, but I work hard.
 
 # Feedback
 
+I don't understand yet what kind of exam we will have, but I really liked the course, moderately busy, very informative, especially considering the training/time ratio. I would like to thank you from the bottom of my heart for such a brilliant course.
 
+Of course, improvements can be made in this course (at home they say - if it works, don't touch it...), you can deepen the labs and increase the requirements for them - for example, for a grade of 1-2, the beginner level passes, but for a grade of 3-4, you need to do advanced labs, and for a grade of 5, at least a couple of the most difficult ones.
